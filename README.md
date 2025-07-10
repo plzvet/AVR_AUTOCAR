@@ -48,6 +48,8 @@ Autonomous_Car_ATmega/
 
 ## 🔗 참고자료
 [시연 영상] https://youtube.com/shorts/PSfJuEaoc3M?feature=share
+
 [시연 영상] https://youtube.com/shorts/nz533y8joas?feature=share
+
 ---
 ✅ 키워드: #AVR #FSM #자율주행 #ATmega128 #Bluetooth #I2C #PWM #임베디드시스템
